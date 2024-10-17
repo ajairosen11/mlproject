@@ -163,3 +163,4 @@ cython_debug/
 
 #packages
 catboost_info/
+artifacts/
